@@ -1,0 +1,4 @@
+Aplikace je urcena k prevodu obrazku na ASCII art. To se muze hodit v situacich, kdy potrebujeme zobrazit obrazek, ale mame pristup pouze ke konzoli, a tak se musime omezit na znaky ASCII. Jde o uzitecny nastroj pro lidi, kteri vyvyjeji aplikace v konzoli.
+
+Jak se bude pouzivat:
+Spustime aplikaci. Zadame aplikaci cestu k obrazku, bud relativni, nebo absolutni (zacinajici /). Zadame rezim (cernobily / barevny). Zadame, co ma delat s vyslednym ASCII artem (ulozit do souboru nebo vypsat do konzole, nebo oboji).
